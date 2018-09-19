@@ -1,0 +1,3 @@
+C:\Users\41601\source\repos\xinli\xinli\obj\Debug\xinli.njsprojResolveAssemblyReference.cache
+C:\Users\41601\source\repos\xinli\xinli\obj\Debug\xinli.njsproj.CoreCompileInputs.cache
+C:\Users\41601\source\repos\xinli\xinli\bin\Microsoft.NodejsTools.WebRole.dll

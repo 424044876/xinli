@@ -1,0 +1,13 @@
+{
+  "name": "xinli",
+  "version": "0.0.0",
+  "description": "xinli",
+  "main": "server.js",
+  "author": {
+    "name": "41601"
+  },
+  "dependencies": {
+    "koa": "^2.4.1",
+    "koa-body": "^2.5.0"
+  }
+}
